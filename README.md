@@ -37,22 +37,6 @@ Python, Scikit-learn, Pandas, MySQL, Jupyter Notebook, PyCharm, Git/GitHub.
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://linktr.ee/Tech_with_anshul/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshultech1)
 
-
-
-## Contributing
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
-
-
-## Lessons Learned
-
-What did you learn while building this project? What challenges did you face and how did you overcome them?
-
-
 ## License
 
 [MIT](https://github.com/tech-with-anshul/Churn-Prediction-for-a-Telecom-Company?tab=MIT-1-ov-file)
@@ -60,7 +44,7 @@ What did you learn while building this project? What challenges did you face and
 
 ## Tech Used
 
-**Python** 
+**Python, Scikit-learn, Pandas, MySQL, Jupyter Notebook, PyCharm, Git/GitHub** 
 
 
 ## Feedback
